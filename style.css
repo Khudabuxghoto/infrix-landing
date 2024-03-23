@@ -1,0 +1,34 @@
+body{
+    margin:  0;
+    padding: 0;
+}
+.nav{
+    margin: 0% 4%;
+}
+.d-flex{
+    display: flex;
+}
+.each-nav-item{
+    padding: 16px;
+}
+.justify-end{
+    justify-content: end;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.container{
+    padding: 5% 5%;
+}
+.section-1 .col-1{
+    width: 55%;
+    /* padding: 24px; */
+}
+.section-1 .col-2{
+    width: 45%;
+    /* padding: 24px; */
+}
+.inner-col{
+    padding: 24px;
+}
